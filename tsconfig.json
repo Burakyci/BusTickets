@@ -1,0 +1,8 @@
+{
+  "extends": "expo/tsconfig.base",
+  "esModuleInterop": true,
+  "compilerOptions": {
+    "strict": true
+  },
+  "include": ["src/**/*.tsx", "src/type/index.ts"]
+}
